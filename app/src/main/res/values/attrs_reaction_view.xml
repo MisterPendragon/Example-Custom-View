@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="ReactionView">
+        <attr name="emoji" format="string" />
+    </declare-styleable>
+</resources>
